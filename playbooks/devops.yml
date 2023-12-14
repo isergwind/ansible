@@ -1,0 +1,4 @@
+- name: add user and key 
+  hosts: all
+  roles:
+    - devops
